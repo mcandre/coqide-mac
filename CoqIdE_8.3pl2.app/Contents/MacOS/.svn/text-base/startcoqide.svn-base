@@ -1,0 +1,13 @@
+#!/bin/sh
+DIR=$(cd "$(dirname "$0")"; pwd)
+export GDK_PIXBUF_MODULE_FILE=$DIR/../Resources/gdk-pixbuf.loaders
+export GTK_IM_MODULE_FILE=$DIR/../Resources/gtk-immodules.loaders
+export PATH=$DIR/../Resources/bin/:$PATH
+
+if [[ ${!#} == "-psn"* ]]; then 
+	length=$(($#-1))
+	OTHERARGS=${@:1:$length} 
+	coqide.opt -coqlib $DIR/../Resources/lib/coq/ $OTHERARGS; 
+else
+	coqide.opt -coqlib $DIR/../Resources/lib/coq/ $@
+fi

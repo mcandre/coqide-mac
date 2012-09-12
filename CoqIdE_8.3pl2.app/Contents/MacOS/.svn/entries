@@ -1,0 +1,41 @@
+8
+
+dir
+1040
+svn+ssh://pboutill@scm.gforge.inria.fr/svn/coq-dev-tools/distrib/MacOS-X/ide/MacOS
+svn+ssh://pboutill@scm.gforge.inria.fr/svn/coq-dev-tools
+
+
+
+2010-12-22T21:30:30.363316Z
+1039
+pboutill
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b74a42e0-600d-0410-a127-a9ead215c6d0
+
+startcoqide
+file
+
+
+
+
+2011-01-25T18:00:14.000000Z
+51b7ffed5366b734c14ab0ee122e3d3d
+2010-12-22T21:30:30.363316Z
+1039
+pboutill
+has-props
+

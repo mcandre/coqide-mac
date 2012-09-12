@@ -1,0 +1,34 @@
+# GTK+ Input Method Modules file
+# Automatically generated file, do not edit
+# Created by /Users/pirbo/gtk/inst/bin/gtk-query-immodules-2.0 from gtk+-2.24.0
+#
+"@executable_path/../immodules/im-am-et.so" 
+"am_et" "Amharic (EZ+)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "am" 
+
+"@executable_path/../immodules/im-cedilla.so" 
+"cedilla" "Cedilla" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "az:ca:co:fr:gv:oc:pt:sq:tr:wa" 
+
+"@executable_path/../immodules/im-cyrillic-translit.so" 
+"cyrillic_translit" "Cyrillic (Transliterated)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "" 
+
+"@executable_path/../immodules/im-inuktitut.so" 
+"inuktitut" "Inuktitut (Transliterated)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "iu" 
+
+"@executable_path/../immodules/im-ipa.so" 
+"ipa" "IPA" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "" 
+
+"@executable_path/../immodules/im-multipress.so" 
+"multipress" "Multipress" "gtk20" "" "" 
+
+"@executable_path/../immodules/im-thai.so" 
+"thai" "Thai-Lao" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "lo:th" 
+
+"@executable_path/../immodules/im-ti-er.so" 
+"ti_er" "Tigrigna-Eritrean (EZ+)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "ti" 
+
+"@executable_path/../immodules/im-ti-et.so" 
+"ti_et" "Tigrigna-Ethiopian (EZ+)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "ti" 
+
+"@executable_path/../immodules/im-viqr.so" 
+"viqr" "Vietnamese (VIQR)" "gtk20" "/Users/pirbo/gtk/inst/share/locale" "vi" 
+
